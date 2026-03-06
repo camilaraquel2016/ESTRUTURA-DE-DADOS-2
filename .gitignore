@@ -1,0 +1,5 @@
+# executáveis
+*.exe
+
+# pasta de compilação
+bin/
